@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">PLEASE SEND ME THE FOLLOWING</string>
+    <string name="app_name">Debugger</string>
+    <string name="timezone">TIME ZONE</string>
+    <string name="notavailable">n/a</string>
+    <string name="androidversion">ANDROID</string>
+</resources>
